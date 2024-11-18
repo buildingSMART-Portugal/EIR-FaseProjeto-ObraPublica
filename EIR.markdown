@@ -271,11 +271,11 @@ Para referência, o presente EIR propõe uma Matriz de Responsabilidades (RACI) 
 
 * **PIR01**: `Conformidade Legal e Regulamentar`:
   * Desenvolvimento de todos os elementos necessários para cumprimento da legislação e regulamentação aplicável a projetos de obras públicas, nomeadamente ao nível do conteúdo obrigatório do projeto de execução, bem como, os procedimentos e normas a adotar na elaboração e faseamento de projetos de obras públicas.
-* **PIR02**: `laneamento e Controlo de Gestão`:
+* **PIR02**: `Planeamento e Controlo de Gestão`:
   * Desenvolvimento de plano de trabalhos e cronograma financeiro, baseado em estimativa de custos.
-* **PIR03**: `aúde e Segurança`:
+* **PIR03**: `Saúde e Segurança`:
   * Desenvolvimento da documentação de Segurança e Saúde para a fase de projeto.
-* **PIR04**: `ustentabilidade`:
+* **PIR04**: `Sustentabilidade`:
   * Desenvolvimento da documentação do Plano de Prevenção e Gestão de Resíduos de Construção e Demolição (PPGRCD).
 * **PIR05**: `Satisfação de Requisitos do Programa de Investimento`:
   * Desenvolvimento de todos os elementos necessários para cumprimento dos requisitos de acesso ao Investimento RE‐C02‐i01 ‐ Programa de Apoio ao Acesso à Habitação e HCC.
@@ -320,7 +320,7 @@ Os pontos-chave de decisão estão previstos para 10 dias úteis após as trocas
 ### 2.2.9. Questões que necessitam resposta para as tomadas de decisão informadas. (PLQ)
 
 * **Ponto de decisão 1**:
-  * Qual a proposta que melhor responde aos critérios de adjudicação definidos no caderno de encargos do procedimento de concurso público?
+  * Qual a proposta que melhor responde aos critérios de adjudicação definidos no programa de concurso do procedimento de concurso público?
 * **Ponto de decisão 2**:
   * São satisfeitos os requisitos de troca de informação entregues pela entidade requerente?
 * **Ponto de decisão 3**:
