@@ -13,7 +13,7 @@ V1.0.0 - 2024/11/18
 * [José Granja](mailto:granja@civil.uminho.pt)
 * [Miguel Azenha](mailto:miguel.azenha@gmail.com)
 * [André Mendes]()
-* [Gonçalo Dinis Vieira]()
+* [Gonçalo Diniz Vieira]()
 * [Pedro Martins]()
 * [Rafael Sobrinho Correia]()
 * [Tiago Andrade Gomes]()
