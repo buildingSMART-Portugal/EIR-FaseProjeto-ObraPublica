@@ -4,7 +4,7 @@
 
 V1.0.0 - 2024/11/18
 
-[Ver EIR online](https://github.com/buildingSMART-Portugal/EIR-Obra-Publica/blob/main/EIR.md)
+[Ver EIR online](https://github.com/buildingSMART-Portugal/EIR-Obra-Publica/blob/main/EIR.markdown)
 
 
 ## Autores
