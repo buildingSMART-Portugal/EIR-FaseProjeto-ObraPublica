@@ -19,7 +19,6 @@ V1.0.0 - 2024/11/18
 * [Tiago Andrade Gomes]()
 * [André Espinho]()
 * [Carla Pires]()
-* [Ana Patrícia Baptista]()
 * [Ricardo Mateus]()
 * [Célia Penedo]()
 * [Ricardo Almeida]()
