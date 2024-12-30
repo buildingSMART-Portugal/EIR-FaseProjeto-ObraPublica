@@ -87,80 +87,80 @@ preferred-citation:
   type: book
   authors:
     - family-names: Granja
-    given-names: José
-    orcid: https://orcid.org/0000-0002-0858-4990
-    affiliation: University of Minho, ISISE, ARISE, Department of Civil Engineering, Guimarães, Portugal
-    email: granja@civil.uminho.pt
-  - family-names: Espinho
-    given-names: André
-    orcid: 
-    affiliation: Camara Municipal de Lisboa, Lisboa, Portugal
-    email: ae.arquitectura@gmail.com
-  - family-names: Mendes
-    given-names: André
-    orcid: 
-    affiliation: 
-    email: 
-  - family-names: Oliveira
-    given-names: Andressa
-    orcid: https://orcid.org/0000-0002-2541-0212
-    affiliation: University of Minho, ISISE, ARISE, Department of Civil Engineering, Guimarães, Portugal
-    email: soliveira.andressa@gmail.com
-  - family-names: Pires
-    given-names: Carla
-    orcid: 
-    affiliation: Gaiurb, Vila Nova de Gaia, Portugal
-    email: cpires@gaiurb.pt
-  - family-names: Penedo
-    given-names: Célia
-    orcid: 
-    affiliation: EMEL, Lisboa, Portugal
-    email: celia.r.penedo@emel.pt
-  - family-names: Vieira
-    given-names: Gonçalo Diniz
-    orcid: 
-    affiliation: 
-    email: 
-  - family-names: Alvarenga
-    given-names: Guido
-    orcid: 
-    affiliation: University of Minho, ISISE, ARISE, Department of Civil Engineering, Guimarães, Portugal
-    email: guidoalvarenga97@gmail.com
-  - family-names: Pacheco
-    given-names: Joana
-    orcid: 
-    affiliation: Camara Municipal da Marinha Grande, Marinha Grande, Portugal
-    email: guidoalvarenga97@gmail.com
-  - family-names: Martins
-    given-names: Pedro
-    orcid: 
-    affiliation: 
-    email: 
-  - family-names: Correia
-    given-names: Rafael Sobrinho
-    orcid: 
-    affiliation: 
-    email: 
-  - family-names: Almeida
-    given-names: Ricardo
-    orcid: 
-    affiliation: 
-    email: 
-  - family-names: Mateus
-    given-names: Ricardo
-    orcid: 
-    affiliation: Universidade Lusofuna, Lisboa, Portugal
-    email: p5768@ulusofona.pt
-  - family-names: Gomes
-    given-names: Tiago Andrade
-    orcid: 
-    affiliation: 
-    email: 
-  - family-names: Azenha
-    given-names: Miguel
-    orcid: https://orcid.org/0000-0003-1374-9427
-    affiliation: University of Minho, ISISE, ARISE, Department of Civil Engineering, Guimarães, Portugal
-    email: miguel.azenha@civil.uminho.pt
+      given-names: José
+      orcid: https://orcid.org/0000-0002-0858-4990
+      affiliation: University of Minho, ISISE, ARISE, Department of Civil Engineering, Guimarães, Portugal
+      email: granja@civil.uminho.pt
+    - family-names: Espinho
+      given-names: André
+      orcid: 
+      affiliation: Camara Municipal de Lisboa, Lisboa, Portugal
+      email: ae.arquitectura@gmail.com
+    - family-names: Mendes
+      given-names: André
+      orcid: 
+      affiliation: 
+      email: 
+    - family-names: Oliveira
+      given-names: Andressa
+      orcid: https://orcid.org/0000-0002-2541-0212
+      affiliation: University of Minho, ISISE, ARISE, Department of Civil Engineering, Guimarães, Portugal
+      email: soliveira.andressa@gmail.com
+    - family-names: Pires
+      given-names: Carla
+      orcid: 
+      affiliation: Gaiurb, Vila Nova de Gaia, Portugal
+      email: cpires@gaiurb.pt
+    - family-names: Penedo
+      given-names: Célia
+      orcid: 
+      affiliation: EMEL, Lisboa, Portugal
+      email: celia.r.penedo@emel.pt
+    - family-names: Vieira
+      given-names: Gonçalo Diniz
+      orcid: 
+      affiliation: 
+      email: 
+    - family-names: Alvarenga
+      given-names: Guido
+      orcid: 
+      affiliation: University of Minho, ISISE, ARISE, Department of Civil Engineering, Guimarães, Portugal
+      email: guidoalvarenga97@gmail.com
+    - family-names: Pacheco
+      given-names: Joana
+      orcid: 
+      affiliation: Camara Municipal da Marinha Grande, Marinha Grande, Portugal
+      email: guidoalvarenga97@gmail.com
+    - family-names: Martins
+      given-names: Pedro
+      orcid: 
+      affiliation: 
+      email: 
+    - family-names: Correia
+      given-names: Rafael Sobrinho
+      orcid: 
+      affiliation: 
+      email: 
+    - family-names: Almeida
+      given-names: Ricardo
+      orcid: 
+      affiliation: 
+      email: 
+    - family-names: Mateus
+      given-names: Ricardo
+      orcid: 
+      affiliation: Universidade Lusofuna, Lisboa, Portugal
+      email: p5768@ulusofona.pt
+    - family-names: Gomes
+      given-names: Tiago Andrade
+      orcid: 
+      affiliation: 
+      email: 
+    - family-names: Azenha
+      given-names: Miguel
+      orcid: https://orcid.org/0000-0003-1374-9427
+      affiliation: University of Minho, ISISE, ARISE, Department of Civil Engineering, Guimarães, Portugal
+      email: miguel.azenha@civil.uminho.pt
   doi: "10.5281/zenodo.14576465"
   title: "EIR para a fase de projeto de uma obra pública"
   year: 2024
