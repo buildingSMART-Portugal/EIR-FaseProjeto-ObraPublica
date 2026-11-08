@@ -1,0 +1,6 @@
+# Generated website and PDFs (built by GitHub Actions)
+_site/
+site/node_modules/
+.DS_Store
+# Local preview settings
+.claude/
